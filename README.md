@@ -149,14 +149,6 @@ EMAIL_PASS=your_email_password
 
 ---
 
-## 👥 Contributors
-
-- **Trushi Jasani** – Web Scraping & Frontend Development
-- **Parita Dave** –  AI Model for Scholarship Matching & Backend
-- **Ayushi Vadariya** – Project Lead
-
----
-
 ## 🤝 Contribution & Suggestions
 
 Contributions and suggestions are welcome!
